@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jerrud
-- 👀 I’m interested in computational geometry, linear algebra and architecture.
+- 👀 I’m interested in computational geometry, linear algebra and healthcare architecture. (I'm an architect)
 - 🌱 I’m currently learning German and everything else...
 - 📫 How to reach me: github message
 
